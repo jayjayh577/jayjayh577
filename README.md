@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayjayh577
-- 👀 I’m interested in blockchain technology
-- 🌱 I’m currently learning javascript & node js
+- 👀 I’m interested in .Net Framework
+- 🌱 I’m currently learning c# And Blazor Technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
